@@ -1,4 +1,4 @@
-# MTKClient
+# GSM ADJAA MTK TOOL
 ![Logo](mtkclient/gui/images/logo_256.png)
 
 Just some mtk tool for exploitation, reading/writing flash and doing crazy stuff. 
